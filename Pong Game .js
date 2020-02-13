@@ -121,7 +121,7 @@ function draw() {
     rect(width / 2, height / 2, width, height);
     textSize(60);
     textAlign(CENTER);
-    text('Game Over', 50, 30);
+    text('Game Over', CENTER , CENTER);
   }
 
 }
