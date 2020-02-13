@@ -1,9 +1,11 @@
 # CP2-week-4--Pong-Game
 
-## project 1: 
+## project 1: Temple Run
 Data | Render |Simulation |Event
 ------------ | ------------- | ------------- | -------------
-Position of the mobile phone | Green round icon | Green round icon moving | Phone is close to the screen
-Screen showse on the computer | Srreen | Image on cellphone screen | Phone is close to the screen
-The angle of the mobile phone | effect of the image  | Blur degree of picture change | angle change
-Finger control on the screen | File movement | The files disappear on the computer and appear on the phone | Tap the screen
+Finger slide up | track | speed up | Roles jump
+Finger slide down | River | Treasure chest show up | Roles Slide
+Finger slide left | Flame  | background change | Roles lane change
+Finger slide right | Gold | Increase in coin value | Roles speed up
+Finger Click | Treasure chest | Increase in coin amount | Roles slow down
+Tilt phone | Energy |  | Monster appears
